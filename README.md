@@ -1,0 +1,3 @@
+My feeble attempts to create a DataFrame-like interface for querying hybrid graph data sources.
+
+Very much a work in progress...
